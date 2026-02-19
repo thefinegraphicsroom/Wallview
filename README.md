@@ -1,4 +1,4 @@
-<h1 align="center">Wallview</h1> <h3 align="center">Video Live Wallpaper Engine for Windows</h3>
+<h1 align="left">Wallview</h1> <h3 align="center">Video Live Wallpaper Engine for Windows</h3>
 
 
 <p align="left">
