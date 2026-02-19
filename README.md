@@ -1,5 +1,5 @@
-<h1 align="center">Wallview</h1>
-<h3 align="center">Video Live Wallpaper Engine for Windows</h3>
+<h1 align="center">Wallview</h1> <h3 align="center">Video Live Wallpaper Engine for Windows</h3>
+
 
 <p align="center">
 Wallview is a lightweight and powerful video live wallpaper engine for Windows that allows you to set any video as your desktop background with smooth playback and minimal system usage.
