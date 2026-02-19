@@ -30,7 +30,7 @@ Built using the MPV video engine, Wallview runs silently in the background and a
 Download the latest installer from the Releases section:
 </p>
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/thefinegraphicsroom/Wallview/releases/download/v1.0.0/WallviewSetup.exe">
 <b>Download Wallview Installer</b>
 </a>
