@@ -4,7 +4,7 @@ Wallview is a lightweight and powerful video live wallpaper engine for Windows t
 
 Built using the MPV video engine, Wallview runs silently in the background and automatically restores your wallpaper after system restart.
 
-**Features**
+**Features:**                                                                                                                                                                                                        
 Set any video as live wallpaper
 Folder mode for automatic random wallpapers
 Infinite playback support
