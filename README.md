@@ -1,65 +1,107 @@
-**Wallview — Video Live Wallpaper Engine for Windows**
+<h1 align="center">Wallview</h1>
+<h3 align="center">Video Live Wallpaper Engine for Windows</h3>
 
+<p align="center">
 Wallview is a lightweight and powerful video live wallpaper engine for Windows that allows you to set any video as your desktop background with smooth playback and minimal system usage.
+</p>
 
+<p align="center">
 Built using the MPV video engine, Wallview runs silently in the background and automatically restores your wallpaper after system restart.
+</p>
 
-**Features:**
-    Set any video as live wallpaper
-    Folder mode for automatic random wallpapers
-    Infinite playback support
-    Runs silently in system tray
-    Auto-start on Windows boot
-    Remembers last applied wallpaper
-    Lightweight performance
-    Installer-based setup
-    Uninstall support
+<hr>
 
-**Download:**
-Download the latest installer from the Releases section: 
-https://github.com/thefinegraphicsroom/Wallview/releases/download/v1.0.0/WallviewSetup.exe
+<h2>Features</h2>
+<ul>
+  <li>Set any video as live wallpaper</li>
+  <li>Folder mode for automatic random wallpapers</li>
+  <li>Infinite playback support</li>
+  <li>Runs silently in system tray</li>
+  <li>Auto-start on Windows boot</li>
+  <li>Remembers last applied wallpaper</li>
+  <li>Lightweight performance</li>
+  <li>Installer-based setup</li>
+  <li>Uninstall support</li>
+</ul>
 
-**Installation:**
-Download the latest installer from the link above
-Run WallviewSetup.exe
-Follow the setup instructions
-Launch Wallview from:
-    Desktop Shortcut
-    Start Menu
+<hr>
 
-**How To Use:**
-**Single Video Mode:**
-    Select any video file
-    Click Apply
-    The selected video will be set as your live 
+<h2>Download</h2>
+<p>
+Download the latest installer from the Releases section:
+</p>
 
-**Folder Mode:**
-    Select a folder containing video files
-    Wallview will automatically switch wallpapers randomly
+<p align="center">
+<a href="https://github.com/thefinegraphicsroom/Wallview/releases/download/v1.0.0/WallviewSetup.exe">
+<b>Download Wallview Installer</b>
+</a>
+</p>
 
-**System Requirements:**
-    Windows 10 or Windows 11 (64-bit)
-    4 GB RAM recommended
-    Hardware video decoding support
+<hr>
 
-**Troubleshooting:**
-    If Windows displays:
-    Windows protected your PC
-Click:
-    More Info → Run Anyway
-This occurs because the installer is unsigned.
+<h2>Installation</h2>
+<ol>
+  <li>Download the latest installer from the link above</li>
+  <li>Run <b>WallviewSetup.exe</b></li>
+  <li>Follow the setup instructions</li>
+  <li>Launch Wallview from:
+    <ul>
+      <li>Desktop Shortcut</li>
+      <li>Start Menu</li>
+    </ul>
+  </li>
+</ol>
 
-**Uninstall:**
-    You can uninstall Wallview from:
-    Control Panel → Programs → Uninstall a Program
+<hr>
 
-**Publisher:**
-SmokieOP
+<h2>How To Use</h2>
 
-**Version:**
-Current Release: v1.0.0
+<h3>Single Video Mode</h3>
+<ul>
+  <li>Select any video file</li>
+  <li>Click Apply</li>
+  <li>The selected video will be set as your live wallpaper</li>
+</ul>
 
-**Support:**
-If you find Wallview useful, consider starring the repository.
+<h3>Folder Mode</h3>
+<ul>
+  <li>Select a folder containing video files</li>
+  <li>Wallview will automatically switch wallpapers randomly</li>
+</ul>
 
-Replace YOUR_USERNAME in the download link with your GitHub username before publishing.
+<hr>
+
+<h2>System Requirements</h2>
+<ul>
+  <li>Windows 10 or Windows 11 (64-bit)</li>
+  <li>4 GB RAM recommended</li>
+  <li>Hardware video decoding support</li>
+</ul>
+
+<hr>
+
+<h2>Troubleshooting</h2>
+<p>If Windows displays:</p>
+<pre>Windows protected your PC</pre>
+<p>Click:</p>
+<pre>More Info → Run Anyway</pre>
+<p>This occurs because the installer is unsigned.</p>
+
+<hr>
+
+<h2>Uninstall</h2>
+<p>You can uninstall Wallview from:</p>
+<pre>Control Panel → Programs → Uninstall a Program</pre>
+
+<hr>
+
+<h2>Publisher</h2>
+<p>SmokieOP</p>
+
+<h2>Version</h2>
+<p>Current Release: v1.0.0</p>
+
+<hr>
+
+<h2>Support</h2>
+<p>If you find Wallview useful, consider starring the repository.</p>
