@@ -31,7 +31,7 @@ Download the latest installer from the Releases section:
 </p>
 
 <p align="left">
-<a href="https://github.com/thefinegraphicsroom/Wallview/releases/download/v1.0.0/WallviewSetup.exe">
+<a href="https://github.com/thefinegraphicsroom/Wallview/releases/download/v1.0.1/WallviewSetup.exe">
 <b>Download Wallview Installer</b>
 </a>
 </p>
